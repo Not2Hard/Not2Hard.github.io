@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dao de Jing](http://mindover.cloud/dao/index.html#)
+<img src="images/dao.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
